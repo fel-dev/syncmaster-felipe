@@ -32,7 +32,7 @@ Para abrir, sempre use o comando:
 
 📜 Licença
 
-Distribuído sob a licença MIT. Veja [LICENSE](./license) para detalhes.
+Distribuído sob a licença MIT. Veja [LICENSE](./LICENSE.md) para detalhes.
 
 🧠 Sobre
 
